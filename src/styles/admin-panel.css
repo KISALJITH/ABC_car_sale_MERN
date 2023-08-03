@@ -1,0 +1,21 @@
+.panel-btn {
+    background:  #57001C;
+    border: 1px solid#fff;
+    text-decoration: none;
+    color: #fff;
+}
+
+.panel-btn:focus {
+    background: #3d415f;
+}
+
+.post-btn {
+    background: #f9a826;
+    color: #57001C;
+    padding: 8px 15px;
+    width: 50%;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    transition: .3s;
+}

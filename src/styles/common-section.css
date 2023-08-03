@@ -1,0 +1,11 @@
+.common__section {
+    background: linear-gradient(rgb(54, 1, 17, 0.8), rgb(54, 1, 17, 0.8)), url('../assets/all-images/drive.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 80px 0px;
+}
+
+.common-title {
+    color: #f9a826;
+}
