@@ -1,0 +1,31 @@
+.carFormHeading{
+    color: #f9a826;
+}
+
+.submit__car-btn {
+    color: #f9a826;
+    background: #57001C;
+    padding: 8px 15px;
+    width: 100%;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    transition: .3s;
+    margin-top: 30px;
+}
+
+.submit__car-btn:hover {
+    background: #940b37;
+    color: #fff;
+}
+
+.carForm_bg{
+    border: #57001C 1px solid;
+    padding: 30px;
+}
+
+.delete_btn {
+    margin-bottom: 20px;
+    align-items: flex-end;
+    border: #57001C 1px solid;
+}

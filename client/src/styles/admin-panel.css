@@ -1,0 +1,50 @@
+.panel-btn {
+    background: #57001C;
+    color: #f9a826;
+    padding: 8px 15px;
+    width: 50%;
+    border: none;
+    outline: none;
+    border-radius: 5px 5px 5px 5px;
+    transition: .3s;
+    margin: 1px;
+}
+
+.panel-btn:hover {
+    background:  #b51749;
+    /* border: 1px solid#fff; */
+    color: #fff;
+}
+
+.owner_btn {
+    background: #57001C;
+    color: #f9a826;
+    padding: 8px 15px;
+    width: 15%;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    transition: .3s;
+    margin-bottom: 5px;
+}
+
+.panel-btn:focus {
+    background: #b51749;
+    color: #fff;
+    width: 300%;
+}
+
+.post-btn {
+    background: #f9a826;
+    color: #57001C;
+    padding: 8px 15px;
+    width: 50%;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    transition: .3s;
+}
+
+.owner_name {
+    text-decoration: none;
+}

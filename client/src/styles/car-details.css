@@ -1,0 +1,10 @@
+.call_now-btn {
+    background: #57001C;
+    color: #fff;
+    padding: 8px 15px;
+    width: 30%;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    transition: .3s;
+}

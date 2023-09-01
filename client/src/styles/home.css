@@ -1,0 +1,17 @@
+.show_more-btn {
+    background: #57001C;
+    padding: 8px 15px;
+    width: 30%;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    transition: .3s;
+    text-decoration: none;
+    text-align-last: center;
+    color: #f9a826;
+}
+
+.show_more-btn:hover {
+    background: #940b37;
+    color: #fff;
+}

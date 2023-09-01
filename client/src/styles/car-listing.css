@@ -1,0 +1,14 @@
+.select-option {
+    border: 1px solid #7c8a972a;
+    padding: 8px 12px;
+    width: 15%;
+    outline: none;
+    border-radius: 5px;
+    color: #414950ac;
+}
+
+@media only screen and (max-width:992px) { 
+    .filter_options {
+        flex-direction: column;
+    }
+}
